@@ -1,0 +1,227 @@
+[{
+    "id": "0b97c7f2-948c-47fa-a1de-aef80402887b",
+    "category_id": "01",
+    "course_title": "Introduction to AI",
+    "img_url": "https://i.ibb.co/jwdrRJ1/alex-knight-2-EJCSULRw-C8-unsplash.jpg",
+    "details": "",
+    "price": "$5.74",
+    "rating": "4.5",
+    "review": "18"
+  }, {
+    "id": "801966ec-8e75-4ff0-bdfa-1515f6509bfb",
+    "category_id": "03",
+    "course_title": "Data Analysis for Beginner",
+    "img_url": "https://i.ibb.co/CBGm67k/markus-winkler-Ir-Rb-SND5-EUc-unsplash.jpg",
+    "details": "",
+    "price": "$2.99",
+    "rating": "3.9",
+    "review": "9236"
+  }, {
+    "id": "801a6c14-e180-4af9-b016-255a6da9e494",
+    "category_id": "02",
+    "course_title": "Python for Everybody",
+    "img_url": "https://i.ibb.co/MDhGQrN/markus-spiske-Skf7-Hx-ARcoc-unsplash.jpg",
+    "details": "",
+    "price": "$5.02",
+    "rating": "4.8",
+    "review": "65"
+  }, {
+    "id": "63a3a1cc-bf82-49b8-8797-7babed905470",
+    "category_id": "01",
+    "course_title": "Build a chat app with AI",
+    "img_url": "https://i.ibb.co/h2y5qz4/markus-spiske-iar-af-B0-QQw-unsplash.jpg",
+    "details": "",
+    "price": "$5.26",
+    "rating": "3.4",
+    "review": "337"
+  }, {
+    "id": "df27839d-053c-4476-b199-393f609ad173",
+    "category_id": "05",
+    "course_title": "Android App Development",
+    "img_url": "https://i.ibb.co/R6Bd54B/luca-bravo-XJXWbf-So2f0-unsplash.jpg",
+    "details": "",
+    "price": "$9.11",
+    "rating": "5.0",
+    "review": "5"
+  }, {
+    "id": "22d5e310-1a1d-4819-8a3a-202993676ca3",
+    "category_id": "06",
+    "course_title": "Introduction to Cyber Security",
+    "img_url": "https://i.ibb.co/bz4td3w/imgix-pgda-Awf6-IJg-unsplash.jpg",
+    "details": "",
+    "price": "$0.24",
+    "rating": "4.7",
+    "review": "8"
+  }, {
+    "id": "08954fda-043e-466c-aab8-fbeadd080ceb",
+    "category_id": "07",
+    "course_title": "Learn Amazon Cloud Server Fundamentals",
+    "img_url": "https://i.ibb.co/j6QY4Yk/christina-wocintechchat-com-gl-Rqy-WJg-Ue-Y-unsplash.jpg",
+    "details": "",
+    "price": "$3.63",
+    "rating": "3.9",
+    "review": "0765"
+  }, {
+    "id": "c61b1124-a368-4acd-9bfe-3156cf453abd",
+    "category_id": "08",
+    "course_title": "Amazon Cloud for Beginner",
+    "img_url": "",
+    "details": "",
+    "price": "$2.03",
+    "rating": "4.6",
+    "review": "69327"
+  }, {
+    "id": "e34fc8ec-7bed-4fa6-ab1f-0d4bcc8337b4",
+    "category_id": "03",
+    "course_title": "Big Data with GraphQL",
+    "img_url": "https://i.ibb.co/FqLcCH6/cowomen-WH5rc3d6-FOQ-unsplash.jpg",
+    "details": "",
+    "price": "$4.42",
+    "rating": "3.9",
+    "review": "5"
+  }, {
+    "id": "d14a43ea-29db-4ed9-8019-19aa131b1fba",
+    "category_id": "05",
+    "course_title": "Build your own messenger app with Android",
+    "img_url": "https://i.ibb.co/NLbDWtT/austin-distel-go-FBjl-Qi-ZFU-unsplash.jpg",    
+    "details": "",
+    "price": "$6.84",
+    "rating": "3.4",
+    "review": "81"
+  }, {
+    "id": "a8398bc4-9d42-4e71-ad2b-b046c1f12c27",
+    "category_id": "06",
+    "course_title": "Prevent hacking with advanced firewall protocol",
+    "img_url": "https://i.ibb.co/jwdrRJ1/alex-knight-2-EJCSULRw-C8-unsplash.jpg",
+    "details": "",
+    "price": "$7.74",
+    "rating": "4.2",
+    "review": "1646"
+  }, {
+    "id": "66b79f15-986f-42d3-8a94-773426d79f48",
+    "category_id": "06",
+    "course_title": "Introduction to penetration testing",
+    "img_url": "https://i.ibb.co/CBGm67k/markus-winkler-Ir-Rb-SND5-EUc-unsplash.jpg",
+    "details": "",
+    "price": "$2.82",
+    "rating": "4.6",
+    "review": "641"
+  }, {
+    "id": "e810a805-1451-44a6-80c6-547e8328fb9f",
+    "category_id": "02",
+    "course_title": "Build dynamic web application with Python",
+    "img_url": "https://i.ibb.co/MDhGQrN/markus-spiske-Skf7-Hx-ARcoc-unsplash.jpg",
+    "details": "",
+    "price": "$4.36",
+    "rating": 31,
+    "review": "3"
+  }, {
+    "id": "84a024ca-37fd-489f-9b4f-8be8dccb7ff9",
+    "category_id": "05",
+    "course_title": "Build a language learning app with Android",
+    "img_url": "https://i.ibb.co/h2y5qz4/markus-spiske-iar-af-B0-QQw-unsplash.jpg",
+    "details": "",
+    "price": "$9.06",
+    "rating": "3.9",
+    "review": "493"
+  }, {
+    "id": "f6082a5b-f40a-4bf9-93f0-4481a289585d",
+    "category_id": "04",
+    "course_title": "Machine learning for everyone",
+    "img_url": "https://i.ibb.co/bdJQkgD/markus-winkler-f57lx37-DCM4-unsplash.jpg",
+    "details": "",
+    "price": "$5.17",
+    "rating": "4.0",
+    "review": "1"
+  }, {
+    "id": "017c3dd1-abd6-42b8-ad16-83c33cdd97af",
+    "category_id": "08",
+    "course_title": "First step to network administraion",
+    "img_url": "https://i.ibb.co/6nTSsS0/christina-wocintechchat-com-gl-Rqy-WJg-Ue-Y-unsplash.jpg",
+    "details": "",
+    "price": "$1.18",
+    "rating": 56,
+    "review": "0977"
+  }, {
+    "id": "fcecb4b6-b438-4a98-bd94-35bb35e16476",
+    "category_id": "04",
+    "course_title": "Build an automation software with machine learning",
+    "img_url": "https://i.ibb.co/R6Bd54B/luca-bravo-XJXWbf-So2f0-unsplash.jpg",
+    "details": "",
+    "price": "$6.13",
+    "rating": "4.3",
+    "review": "4911"
+  }, {
+    "id": "e4614fd1-9275-4679-b105-98bb2455975a",
+    "category_id": "03",
+    "course_title": "Database management with MySQL",
+    "img_url": "https://i.ibb.co/Z8hRZgw/josefa-ndiaz-Izmd-WT2l-W5-Q-unsplash.jpg",
+    "details": "",
+    "price": "$9.38",
+    "rating": "4.2",
+    "review": "6424"
+  }, {
+    "id": "0f979f08-0db5-4326-800b-735cc428b4d3",
+    "category_id": "05",
+    "course_title": "",
+    "img_url": "https://i.ibb.co/bz4td3w/imgix-pgda-Awf6-IJg-unsplash.jpg",
+    "details": "",
+    "price": "$6.03",
+    "rating": 48,
+    "review": "1023"
+  }, {
+    "id": "550d61ef-3489-40ce-a285-1e0d7708b675",
+    "category_id": "07",
+    "course_title": "Deploy your app to amazon cloud",
+    "img_url": "https://i.ibb.co/5M1p8t8/george-prentzas-SRFG7iwkt-Dk-unsplash.jpg",
+    "details": "",
+    "price": "$1.15",
+    "rating": "4.5",
+    "review": "02"
+  }, {
+    "id": "60f99729-9b55-4eb7-9089-e2f03f476ed1",
+    "category_id": "06",
+    "course_title": "Advanced firewall management tools and techniques",
+    "img_url": "https://i.ibb.co/6nTSsS0/christina-wocintechchat-com-gl-Rqy-WJg-Ue-Y-unsplash.jpg",
+    "details": "",
+    "price": "$6.62",
+    "rating": "4.0",
+    "review": "3"
+  }, {
+    "id": "bd325900-f26d-4621-a90c-5d8fae7b8f6c",
+    "category_id": "07",
+    "course_title": "Amazon Cloud for web hosting",
+    "img_url": "https://i.ibb.co/FqLcCH6/cowomen-WH5rc3d6-FOQ-unsplash.jpg",
+    "details": "",
+    "price": "$1.17",
+    "rating": "3.9",
+    "review": "1394"
+  }, {
+    "id": "9e0d44e0-cd17-4704-a87d-10f1961dfeff",
+    "category_id": "06",
+    "course_title": "How to detect unauthorized access",
+    "img_url": "https://i.ibb.co/bz4td3w/imgix-pgda-Awf6-IJg-unsplash.jpg",
+    "details": "",
+    "price": "$5.91",
+    "rating": "4.2",
+    "review": "79"
+  }, {
+    "id": "c7761c5f-b75d-4b1d-b79e-6756571e6edb",
+    "category_id": "01",
+    "course_title": "Learning AI fundamentals",
+    "img_url": "https://i.ibb.co/jwdrRJ1/alex-knight-2-EJCSULRw-C8-unsplash.jpg",
+    "details": "",
+    "price": "$1.36",
+    "rating": "4.5",
+    "review": "1161"
+  }, {
+    "id": "d2c9ae7b-5625-4566-9b82-c66b3583237f",
+    "category_id": "01",
+    "course_title": "Build an AI system for your home",
+    "img_url": "https://i.ibb.co/NLbDWtT/austin-distel-go-FBjl-Qi-ZFU-unsplash.jpg",
+    "details": "",
+    "price": "$5.67",
+    "rating": "4.2",
+    "review": "2826"
+  }]
+  

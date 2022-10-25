@@ -1,0 +1,35 @@
+[
+    {
+        "id": "01",
+        "category": "AI" 
+    },
+    {
+        "id": "02",
+        "category": "Python"
+    },
+    {
+        "id": "03",
+        "category": "Data Science"
+    },
+    {
+        "id": "04",
+        "category": "Machine Learning"
+    },
+    {
+        "id": "05",
+        "category": "Android"
+    },
+    
+    {
+        "id": "06",
+        "category": "Cyber Security"
+    },
+    {
+        "id": "07",
+        "category": "Amazon Cloud Server"
+    },
+    {
+        "id": "08",
+        "category": "Network Administration"
+    }
+]    
