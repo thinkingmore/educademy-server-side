@@ -3,7 +3,7 @@
     "category_id": "01",
     "course_title": "Introduction to AI",
     "img_url": "https://i.ibb.co/jwdrRJ1/alex-knight-2-EJCSULRw-C8-unsplash.jpg",
-    "details": "",
+    "details": "Learn the basics concepts of Artificial Intelligence.How can you create intelligent system.What are the possibilities of AI",
     "price": "$5.74",
     "rating": "4.5",
     "review": "18"
@@ -12,7 +12,7 @@
     "category_id": "03",
     "course_title": "Data Analysis for Beginner",
     "img_url": "https://i.ibb.co/CBGm67k/markus-winkler-Ir-Rb-SND5-EUc-unsplash.jpg",
-    "details": "",
+    "details": "Start data analysis for getting meaningful insights from data.Learn how to analysis raw data sets.Learn the  tools and techniques for data analysis",
     "price": "$2.99",
     "rating": "3.9",
     "review": "9236"
@@ -21,7 +21,7 @@
     "category_id": "02",
     "course_title": "Python for Everybody",
     "img_url": "https://i.ibb.co/MDhGQrN/markus-spiske-Skf7-Hx-ARcoc-unsplash.jpg",
-    "details": "",
+    "details": "Learn python from scratch.The things you can accomplish with python language.",
     "price": "$5.02",
     "rating": "4.8",
     "review": "65"
@@ -30,7 +30,7 @@
     "category_id": "01",
     "course_title": "Build a chat app with AI",
     "img_url": "https://i.ibb.co/h2y5qz4/markus-spiske-iar-af-B0-QQw-unsplash.jpg",
-    "details": "",
+    "details": "AI can applied for many useful tasks.In this course,you will learn how to build chat app and monetize it.",
     "price": "$5.26",
     "rating": "3.4",
     "review": "337"
@@ -39,7 +39,7 @@
     "category_id": "05",
     "course_title": "Android App Development",
     "img_url": "https://i.ibb.co/R6Bd54B/luca-bravo-XJXWbf-So2f0-unsplash.jpg",
-    "details": "",
+    "details": "Learn android app development with this course.How to use android development kit.Where to merchandis your app and how to make money",
     "price": "$9.11",
     "rating": "5.0",
     "review": "5"
@@ -48,7 +48,7 @@
     "category_id": "06",
     "course_title": "Introduction to Cyber Security",
     "img_url": "https://i.ibb.co/bz4td3w/imgix-pgda-Awf6-IJg-unsplash.jpg",
-    "details": "",
+    "details": "Become a cyber security expert.Take this course to start your journey",
     "price": "$0.24",
     "rating": "4.7",
     "review": "8"
@@ -57,7 +57,7 @@
     "category_id": "07",
     "course_title": "Learn Amazon Cloud Server Fundamentals",
     "img_url": "https://i.ibb.co/j6QY4Yk/christina-wocintechchat-com-gl-Rqy-WJg-Ue-Y-unsplash.jpg",
-    "details": "",
+    "details": "The full form of AWS is Amazon Web Services. It is a platform that offers flexible, reliable, scalable, easy-to-use and, cost-effective cloud computing solutions.",
     "price": "$3.63",
     "rating": "3.9",
     "review": "0765"
@@ -65,8 +65,8 @@
     "id": "c61b1124-a368-4acd-9bfe-3156cf453abd",
     "category_id": "08",
     "course_title": "Amazon Cloud for Beginner",
-    "img_url": "",
-    "details": "",
+    "img_url": "https://i.ibb.co/h2y5qz4/markus-spiske-iar-af-B0-QQw-unsplash.jpg",
+    "details": "Amazon Web Services offers a wide range of different business purpose global cloud-based products. The products include storage, databases, analytics, networking, mobile, development tools, enterprise applications, with a pay-as-you-go pricing model",
     "price": "$2.03",
     "rating": "4.6",
     "review": "69327"
@@ -75,7 +75,7 @@
     "category_id": "03",
     "course_title": "Big Data with GraphQL",
     "img_url": "https://i.ibb.co/FqLcCH6/cowomen-WH5rc3d6-FOQ-unsplash.jpg",
-    "details": "",
+    "details": "This Big Data tutorial is aimed to help you learn more about the five V’s of Big Data, the benefits and applications of Big Data across several industries and sectors, and sources of Big Data. ",
     "price": "$4.42",
     "rating": "3.9",
     "review": "5"
@@ -84,7 +84,7 @@
     "category_id": "05",
     "course_title": "Build your own messenger app with Android",
     "img_url": "https://i.ibb.co/NLbDWtT/austin-distel-go-FBjl-Qi-ZFU-unsplash.jpg",    
-    "details": "",
+    "details": "This tutorial will guide you through everything you need to know to build your first Messenger experience.",
     "price": "$6.84",
     "rating": "3.4",
     "review": "81"
@@ -93,7 +93,7 @@
     "category_id": "06",
     "course_title": "Prevent hacking with advanced firewall protocol",
     "img_url": "https://i.ibb.co/jwdrRJ1/alex-knight-2-EJCSULRw-C8-unsplash.jpg",
-    "details": "",
+    "details": "Hackers can steal your data if your firewall knowledge is not strong enough.This tutorial will show you how to secure your firewall.",
     "price": "$7.74",
     "rating": "4.2",
     "review": "1646"
@@ -102,7 +102,7 @@
     "category_id": "06",
     "course_title": "Introduction to penetration testing",
     "img_url": "https://i.ibb.co/CBGm67k/markus-winkler-Ir-Rb-SND5-EUc-unsplash.jpg",
-    "details": "",
+    "details": "This tutorial has been prepared for beginners to help them understand the basics of Penetration Testing and how to use it in practice.",
     "price": "$2.82",
     "rating": "4.6",
     "review": "641"
@@ -111,7 +111,7 @@
     "category_id": "02",
     "course_title": "Build dynamic web application with Python",
     "img_url": "https://i.ibb.co/MDhGQrN/markus-spiske-Skf7-Hx-ARcoc-unsplash.jpg",
-    "details": "",
+    "details": "Learn web development with python.Make dynamic web applicatin using python.",
     "price": "$4.36",
     "rating": 31,
     "review": "3"
@@ -120,7 +120,7 @@
     "category_id": "05",
     "course_title": "Build a language learning app with Android",
     "img_url": "https://i.ibb.co/h2y5qz4/markus-spiske-iar-af-B0-QQw-unsplash.jpg",
-    "details": "",
+    "details": "Start android development with practical project.In this course,you will make your own language learning app with android.",
     "price": "$9.06",
     "rating": "3.9",
     "review": "493"
@@ -129,7 +129,7 @@
     "category_id": "04",
     "course_title": "Machine learning for everyone",
     "img_url": "https://i.ibb.co/bdJQkgD/markus-winkler-f57lx37-DCM4-unsplash.jpg",
-    "details": "",
+    "details": "Learn how to machine learning works.Develop your knowledge on machine learning.",
     "price": "$5.17",
     "rating": "4.0",
     "review": "1"
@@ -138,7 +138,7 @@
     "category_id": "08",
     "course_title": "First step to network administraion",
     "img_url": "https://i.ibb.co/6nTSsS0/christina-wocintechchat-com-gl-Rqy-WJg-Ue-Y-unsplash.jpg",
-    "details": "",
+    "details": "Become a network administrator.Learn how to start your career in network administration",
     "price": "$1.18",
     "rating": 56,
     "review": "0977"
@@ -147,7 +147,7 @@
     "category_id": "04",
     "course_title": "Build an automation software with machine learning",
     "img_url": "https://i.ibb.co/R6Bd54B/luca-bravo-XJXWbf-So2f0-unsplash.jpg",
-    "details": "",
+    "details": "Learn how to make a system that will automate your tasks.",
     "price": "$6.13",
     "rating": "4.3",
     "review": "4911"
@@ -156,16 +156,16 @@
     "category_id": "03",
     "course_title": "Database management with MySQL",
     "img_url": "https://i.ibb.co/Z8hRZgw/josefa-ndiaz-Izmd-WT2l-W5-Q-unsplash.jpg",
-    "details": "",
+    "details": "Learn the fundamentals of database management and MySQL.",
     "price": "$9.38",
     "rating": "4.2",
     "review": "6424"
   }, {
     "id": "0f979f08-0db5-4326-800b-735cc428b4d3",
     "category_id": "05",
-    "course_title": "",
+    "course_title": "Android Game Development",
     "img_url": "https://i.ibb.co/bz4td3w/imgix-pgda-Awf6-IJg-unsplash.jpg",
-    "details": "",
+    "details": "Become an android game developer.Learn how to develop android games that you can sell.",
     "price": "$6.03",
     "rating": 48,
     "review": "1023"
@@ -174,7 +174,7 @@
     "category_id": "07",
     "course_title": "Deploy your app to amazon cloud",
     "img_url": "https://i.ibb.co/5M1p8t8/george-prentzas-SRFG7iwkt-Dk-unsplash.jpg",
-    "details": "",
+    "details": "Learn how to deploy application on amazon cloud.This tutorial will show you how to use amazon cloud system.",
     "price": "$1.15",
     "rating": "4.5",
     "review": "02"
@@ -183,7 +183,7 @@
     "category_id": "06",
     "course_title": "Advanced firewall management tools and techniques",
     "img_url": "https://i.ibb.co/6nTSsS0/christina-wocintechchat-com-gl-Rqy-WJg-Ue-Y-unsplash.jpg",
-    "details": "",
+    "details": "Make your firewall more powerful.Stay secured while visiting online", 
     "price": "$6.62",
     "rating": "4.0",
     "review": "3"
@@ -192,7 +192,7 @@
     "category_id": "07",
     "course_title": "Amazon Cloud for web hosting",
     "img_url": "https://i.ibb.co/FqLcCH6/cowomen-WH5rc3d6-FOQ-unsplash.jpg",
-    "details": "",
+    "details": "This tutorial is for the beginners who wants to host their web application on AWS.Get to know the basic of Amazon Cloud Server",
     "price": "$1.17",
     "rating": "3.9",
     "review": "1394"
@@ -201,7 +201,7 @@
     "category_id": "06",
     "course_title": "How to detect unauthorized access",
     "img_url": "https://i.ibb.co/bz4td3w/imgix-pgda-Awf6-IJg-unsplash.jpg",
-    "details": "",
+    "details": "Protect your server from unauthorized access.Learn how to detect someone who try access your data with this course.",
     "price": "$5.91",
     "rating": "4.2",
     "review": "79"
@@ -209,8 +209,8 @@
     "id": "c7761c5f-b75d-4b1d-b79e-6756571e6edb",
     "category_id": "01",
     "course_title": "Learning AI fundamentals",
-    "img_url": "https://i.ibb.co/jwdrRJ1/alex-knight-2-EJCSULRw-C8-unsplash.jpg",
-    "details": "",
+    "img_url": "https://i.ibb.co/MDhGQrN/markus-spiske-Skf7-Hx-ARcoc-unsplash.jpg",
+    "details": "Learn the fundamentals of AI that will help you understand how to develop your knowledge on AI for the future.",
     "price": "$1.36",
     "rating": "4.5",
     "review": "1161"
@@ -219,7 +219,7 @@
     "category_id": "01",
     "course_title": "Build an AI system for your home",
     "img_url": "https://i.ibb.co/NLbDWtT/austin-distel-go-FBjl-Qi-ZFU-unsplash.jpg",
-    "details": "",
+    "details": "In this tutorial, you will learn how to create a simple “Hello Codecademy” Alexa skill. You will build the interaction model and Amazon Lambda function that responds to a user’s voice with a personal welcome message.",
     "price": "$5.67",
     "rating": "4.2",
     "review": "2826"
