@@ -113,7 +113,7 @@
     "img_url": "https://i.ibb.co/MDhGQrN/markus-spiske-Skf7-Hx-ARcoc-unsplash.jpg",
     "details": "Learn web development with python.Make dynamic web applicatin using python.",
     "price": "$4.36",
-    "rating": 31,
+    "rating": "3.1",
     "review": "3"
   }, {
     "id": "84a024ca-37fd-489f-9b4f-8be8dccb7ff9",
@@ -140,7 +140,7 @@
     "img_url": "https://i.ibb.co/6nTSsS0/christina-wocintechchat-com-gl-Rqy-WJg-Ue-Y-unsplash.jpg",
     "details": "Become a network administrator.Learn how to start your career in network administration",
     "price": "$1.18",
-    "rating": 56,
+    "rating": "5.6",
     "review": "0977"
   }, {
     "id": "fcecb4b6-b438-4a98-bd94-35bb35e16476",
@@ -167,7 +167,7 @@
     "img_url": "https://i.ibb.co/bz4td3w/imgix-pgda-Awf6-IJg-unsplash.jpg",
     "details": "Become an android game developer.Learn how to develop android games that you can sell.",
     "price": "$6.03",
-    "rating": 48,
+    "rating": "4.8",
     "review": "1023"
   }, {
     "id": "550d61ef-3489-40ce-a285-1e0d7708b675",
