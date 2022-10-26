@@ -22,9 +22,14 @@ app.get('/categories',(req,res)=>{
 
 app.get('/categories/:id',(req, res)=>{
     const id = req.params.id;
-    const course = courses.filter(cs => cs.category_id === id)
-    res.send(course);
-   
+    if( id === "09"){
+        res.send(courses)
+    }
+    else {
+        const course = courses.filter(cs => cs.category_id === id)
+        res.send(course);
+    }
+    
 })
 
 // app.get('/categories/:id',(req, res)=>{
